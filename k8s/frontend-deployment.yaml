@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: frontend 
-        image: <Image> -- TODO
+        image: <Image>
         resources:
           requests:
             memory: "128Mi"

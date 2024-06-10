@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: <Image> -- TODO
+        image: <Image>
         resources:
           requests:
             memory: "128Mi"
